@@ -1,4 +1,4 @@
-# 🎙️ Voxis:Local Voice AI Assistant
+# 🎙️Voxis:Local Voice AI Assistant
 
 A private, offline-capable Voice AI Assistant that runs locally on your machine. It listens to your voice, processes your request using **Ollama (Llama 3)**, and speaks back to you with a synthesized voice.
 
